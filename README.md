@@ -1,6 +1,6 @@
 # RAG System — Retrieval-Augmented Generation
 
-> **Documentation prepared and organized by ME **
+> Documentation prepared and organized by ME 
 
 Notes covering why RAG is needed, how its pipeline works, and how to implement a PDF-based RAG system using JavaScript, LangChain, Gemini, and Pinecone.
 
